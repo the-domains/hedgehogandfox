@@ -1,0 +1,28 @@
+name: Hedgehogandfox
+favicon: null
+layout_spectrum: 0.9326207432895899
+typography_spectrum: 0.3384117856621742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7784940169658512
+  lightness: 0.2346089764032513
+  saturation: 0.12216699519194663
+  rhythmicContrast: 0.642975639551878
+purpose: []
